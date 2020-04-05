@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootvalidation
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kshitiz
+Implementation-Vendor-Id: com.onlinetutorialspoint.springbootvalidatio
+ n
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/springbootva
+ lidation/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
